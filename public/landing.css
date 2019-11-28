@@ -1,0 +1,82 @@
+
+
+.bac-landing{
+
+background-image: url('images/landing-background.png');
+background-size: cover;
+height:120vh;
+
+}
+
+
+.logo{
+
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 130px;
+margin-top: 70px;
+}
+
+
+.cue-ball{
+    font-family:ApercuProBoldimport;
+    color: white;
+    text-align: center;
+    font-weight:500;
+    font-size: 55px;
+    line-height: 63px;
+    margin-top:20px;
+
+
+}
+
+
+@font-face {
+    font-family:ApercuProBoldimport;
+    src: url("fonts/Apercu/ApercuProBold.otf");
+  }
+
+
+
+
+
+  .get{
+
+    font-family:ApercuProBoldimport;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 20px;
+
+  }
+
+
+
+  /* timer css */
+
+#demo{
+
+text-align: center !important;
+font-family:ApercuProBoldimport !important;
+font-size: 25px;
+color: goldenrod;
+}
+
+
+
+  /*end*/
+
+
+
+  .tutorial{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 450px;
+margin-top: 50px;
+margin-bottom: 20px;
+
+  }
