@@ -15,25 +15,29 @@ import face1 from "../../images/face1.png";
 import face2 from "../../images/face2.png";
 import face3 from "../../images/face3.png";
 import write from "../../images/write.png";
+import slide1 from "../../images/slide1.jpg";
+import slide2 from "../../images/slide2.jpg";
+import slide3 from "../../images/slide3.jpg";
+import slide4 from "../../images/slide4.jpg";
 
 const Landing = () => (
 
 <div>
 
-<div className="container">
+<div className="padding-nav">
 
 <Navbar/>
 
 </div>
 
-<div className="container">
 
-<div className="row">
+<div className="row baked-twist">
 
 <div className="col-sm-6">
 
-<h1 className="intro-text"> Ideas & innovation for growth.  </h1>
-<p className="sub-intro">Optimal Source Plus LTD is a creative agency
+
+<h1 className="intro-text-new"> Ideas & innovation for growth.  </h1>
+<p className="sub-intro-new">Optimal Source Plus LTD is a creative agency
 that leverages on advanced technologies to deliver
 consolidated solutions through meaningful innovations.</p>
 
@@ -47,23 +51,45 @@ consolidated solutions through meaningful innovations.</p>
 <img src={appsLogo} className="img-fluid applogo zoom "/>
 </a>
 
+
+
 </div>
 
 </div>
 
 
-<div className="col-sm-6">
+<div className="col-sm-6 ">
     
+
+<div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel">
+  <div className="carousel-inner">
+    <div className="carousel-item active">
+        <img src={slide1} className="d-block w-100" alt="..."/>
+    </div>
+    <div className="carousel-item">
+      <img src={slide2} className="d-block w-100" alt="..."/>
+    </div>
+    <div className="carousel-item">
+      <img src={slide3} className="d-block w-100" alt="..."/>
+    </div>
+
+    <div className="carousel-item">
+      <img src={slide4} className="d-block w-100" alt="..."/>
+    </div>
+
+  </div>
+</div>
+
+    
+    {/*
 <video src={lightbulb} className="img-fluid light-bulb" muted="true" autoplay="true" loop="true"></video>
-
+    */}
 </div>
 
 
 </div>
 
 
-
-</div>
 
 {/**first part ended */}
 
@@ -138,7 +164,7 @@ we also place priority on our clients knowing our progress levels.
 
 <div className="container"> 
 
-<div className="row">
+<div className="row baked-twist">
 
 
 <div className="col-sm-6">
@@ -181,7 +207,7 @@ Optimal Source Plus was founded by a team who are passionate about influencing t
 <div className="card-newsletter">
 
 
-<div className="row">
+<div className="row baked-twist">
 
 
 <div className="col-sm-6">

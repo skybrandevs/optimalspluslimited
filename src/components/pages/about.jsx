@@ -23,7 +23,7 @@ const About = () => (
 
     <div>
 
-<div className="container">
+<div className="padding-nav">
 <Navbar/>
 </div>
 
@@ -34,7 +34,7 @@ const About = () => (
 
 <div className="col-sm-12">
 
-<h1 className="intro-text-2"> Great ideas , innovations & stories.  </h1>
+<h1 className="intro-text-2 padd-top-left-right"> Great ideas , innovations & stories.  </h1>
 <p className="sub-text">Optimal Source Plus LTD is a creative agency that leverages on advanced technologies to
 deliver consolidated solutions through meaningful innovations.
 Optimal Source Plus was founded by a team who share a passion to influence

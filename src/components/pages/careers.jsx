@@ -16,7 +16,7 @@ const Careers = () => (
     <div>
 
 
-<div className="container">
+<div className="padding-nav">
 
 <Navbar/>
 

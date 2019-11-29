@@ -6,6 +6,7 @@ import About from "./components/pages/about";
 import Privacy from "./components/pages/privacy";
 import Footer from "./components/pages/partials/footer";
 import Careers from "./components/pages/careers";
+import Contact from "./components/pages/contact";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/about" component={About}/>
         <Route path="/privacy" component={Privacy}/>
         <Route path="/careers" component={Careers}/>
+        <Route path="/contact" component={Contact}/>
       </Switch>
       <Footer/>
     </Router>

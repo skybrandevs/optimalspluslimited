@@ -21,9 +21,9 @@ const Footer = () => (
     <li className="li-2">About </li>
     </Link>
   
-  <a href="contact.html">
+  <Link to="/contact">
     <li className="li-2"> Contact</li>
-</a>
+</Link>
 
 </div>
 
@@ -31,7 +31,7 @@ const Footer = () => (
 <h4 className="footer-topic">Product</h4>
 
 
-<li className="li-2">Cueball</li>
+<li className="li-2">The Cueball App</li>
 <li className="li-2">My Cueball Wallet</li>
 
 
@@ -45,13 +45,13 @@ const Footer = () => (
 <Link to="/careers">
     <li className="li-2">Careers</li>
 </Link>
-
+<li className="li-2">Branding</li>
     
 </div>
 
 
 <div className="col">
-<h4 className="footer-topic">Legal</h4>
+<h4 className="footer-topic  auto-zie">Legal</h4>
 
 
 <Link to="/privacy">

@@ -51,6 +51,18 @@ margin-top:50px;
     
 }
 
+.intro-text-new{
+    font-family: 'Merriweather', serif !important;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    line-height: 64px;
+    margin-top: 130px;
+    Color:#022b69;  
+    padding-left:80px;
+    padding-right:80px;
+}
+
 
 .intro-text-2{
     font-family: 'Merriweather', serif !important;   
@@ -154,10 +166,35 @@ margin-top:45px;
 }
 
 
+.padding-nav{
+
+padding-left: 80px;
+padding-right: 80px;
+
+}
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    margin-top:20px;
+    padding-right:80px;
+    padding-left: 80px;
+
+}
+
+
 .playcueball{
 
 width: 165px;
 margin-top:50px;
+position: relative;
+left: 80px;
 
 }
 
@@ -170,8 +207,11 @@ margin-top:50px;
 
 margin-right: 10px;
 margin-top:20px;
+position: relative;
+left:80px;
 
 }
+
 
 .background-color{
 
@@ -323,6 +363,26 @@ margin-top: 130px;
     font-family: 'Lato', sans-serif !important;
     font-weight: 900;
    margin-left: 50px;
+
+}
+
+
+
+
+.newsletter-btn-2{
+
+    width:170px;
+    height: 70px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+   margin-bottom:150px;
 
 }
 
@@ -858,4 +918,440 @@ width: 130px;
 margin-bottom: -130px;
 
    }
+
+   .contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 54px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:200px;
+    text-align: center;
+   }
+
+   .contact-intro{
+    font-family: 'Lato', sans-serif !important;
+    text-align: center;
+    color:#202020;
+    margin-top: 30px;
+    font-style: italic;
+
+
+   }
+
+   .contact{
+       width: 350px;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       margin-top: 50px;
+       margin-bottom: 50px;
+
+   }
+
+   .col-1st , .col-2nd{
+    font-family: 'Lato', sans-serif !important;
+    color:#202020;
+    font-weight: 700;
+    font-size:18.5px;
+
+   }
+
+   .stylish{
+    font-family: 'Lato', sans-serif !important;
+    font-style: italic;
+    color: #022b69;
+    margin-bottom:150px;
+
+   }
+
+   /* ----------- Galaxy S3 ----------- */
+
+/* Portrait  */
+@media screen 
+and (device-width: 360px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 2) and (orientation: portrait){
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:40vh;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:40vh;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+.auto-zie{
+
+margin-top:-8px !important;
+
+}
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+
+}
+
+
+
+/* Landscape */
+@media screen 
+  and (device-width: 640px) 
+  and (device-height: 360px) 
+  and (-webkit-device-pixel-ratio: 2) 
+  and (orientation: landscape) {
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+}
+
+  
+/*end*/
   

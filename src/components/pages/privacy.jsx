@@ -11,7 +11,7 @@ const About = () => (
     <div>
 
 
-<div className="container">
+<div className="padding-nav">
 <Navbar/>
 </div>
 
@@ -23,7 +23,7 @@ const About = () => (
 
 <div className="col-sm-6">
 <h1 className="intro-text"> Privacy & Terms.  </h1>
-<p className="sub-intro">Document effective November 27, 2019</p>
+<p className="sub-intro">Document effective from November 27, 2019</p>
 <p className="lato">Thank you for playing our games! This Privacy Policy describes:
 
 *The ways we collect personal data about you and why we do so,
