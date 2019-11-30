@@ -394,7 +394,6 @@ height:70vh;
 border-radius: 5px;
 background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
 
-
 }
 
 .newsletter{
@@ -971,7 +970,7 @@ margin-bottom: -130px;
 @media screen 
 and (device-width: 360px) 
 and (device-height: 640px) 
-and (-webkit-device-pixel-ratio: 2) and (orientation: portrait){
+and (-webkit-device-pixel-ratio: 2){
 
 
     .padding-nav{
@@ -1328,7 +1327,7 @@ width:42.5px;
 
 
 
-/* Landscape */
+/* Landscape for s3 */
 @media screen 
   and (device-width: 640px) 
   and (device-height: 360px) 
@@ -1350,8 +1349,5913 @@ width:42.5px;
 
 
 
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 10px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 150%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
 }
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+
+                }
 
   
 /*end*/
   
+
+/* ----------- Galaxy S4, S5 and Note 3 ----------- */
+
+/* Portrait */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:40vh;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:40vh;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+.auto-zie{
+
+margin-top:-8px !important;
+
+}
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+
+
+
+}
+
+/*end*/
+
+
+/* Landscape */
+@media screen 
+  and (device-width: 640px) 
+  and (device-height: 320px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 10px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 150%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
+}
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+
+
+
+}
+
+
+/* ----------- Galaxy S6 ----------- */
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: portrait) {
+
+
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:40vh;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:40vh;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+.auto-zie{
+
+margin-top:-8px !important;
+
+}
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+}
+
+/*end*/
+
+
+
+/*--galaxy s5 --*/
+/*portrait*/
+
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (orientation:portrait) {
+
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:40vh;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:40vh;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+.auto-zie{
+
+margin-top:-8px !important;
+
+}
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+
+  }
+
+
+
+/*landscape*/
+
+
+
+@media screen 
+  and (device-width: 640px) 
+  and (device-height: 360px) 
+  and (orientation:landscape) {
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 10px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 150%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
+}
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+
+
+
+
+  }
+
+
+/*end*/
+
+
+
+
+/*--media query google pixel 2 *--/
+
+/*potrait*/
+
+@media screen 
+  and (device-width: 411px) 
+  and (device-height: 731px) {
+
+
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:40vh;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:40vh;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+
+
+
+  }
+
+
+
+  /*landscape*/
+
+
+@media screen 
+and (device-width: 731px) 
+and (device-height: 411px) {
+
+
+  
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 10px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 150%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
+}
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+}
+
+
+/*end*/
+
+
+
+
+
+
+
+
+/*--media query google pixel 2xl *--/
+
+/*potrait*/
+
+@media screen 
+  and (device-width: 411px) 
+  and (device-height: 823px) {
+
+
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:40vh;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:40vh;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+
+
+
+  }
+
+
+
+  /*landscape*/
+
+
+@media screen 
+and (device-width: 823px) 
+and (device-height: 411px) {
+
+
+.story-img{
+
+width: 220px;
+margin-top:90px;
+
+}
+
+
+  
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 50px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 150%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
+}
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+}
+
+
+/*end*/
+
+
+
+/*--media query iphone5 /SE  *--/
+
+/*potrait*/
+
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 568px) {
+
+
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:fit-content;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:fit-content;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+
+    .auto-zie{
+
+margin-top: -8px;
+
+    }
+
+
+  }
+
+
+
+/*landscape*/
+
+@media screen 
+  and (device-width: 568px) 
+  and (device-height: 320px){
+
+
+
+  
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 50px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                    margin-bottom:50px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 150%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
+}
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+
+
+    .baked-twist {
+  
+        display:flex;
+        flex-direction: column-reverse;
+    
+     }
+
+
+
+.corevalues{
+
+    display: block;
+    margin-left:auto;
+    width:200px;
+    
+    }
+
+    .card{
+
+        width: 80%;
+        height:50vh;
+        margin-top:50px;
+        margin-bottom: 70px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border: transparent;
+        
+        }
+
+        .story-img{
+
+width:200px;
+margin-top: 60px;
+
+        }
+
+
+        .card-newsletter{
+
+            width: 100%;
+            height:fit-content;
+            border-radius: 5px;
+            background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+            
+            }
+            
+            .newsletter{
+            
+                margin-top:50px;
+                margin-bottom: 70px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width:250px;
+            
+            }
+            
+            .newsletter-intro{
+            
+                font-family: 'Merriweather', serif !important;
+            margin-top: 10px;
+            text-align: left;
+            padding-left:50px;
+            padding-right: 50px;
+            
+            }
+            
+            .newsletter-outro{
+                font-family: 'Lato', sans-serif !important;
+                text-align:left;
+                padding-left:50px;
+                padding-right: 50px;
+            
+            }
+
+
+
+  }
+
+
+
+/*end*/
+
+
+
+
+
+/*--media query iphone 6 / 7/ 8   *--/
+
+/*potrait*/
+
+@media screen 
+  and (device-width: 375px) 
+  and (device-height: 667px) {
+
+
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:fit-content;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:fit-content;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+
+ 
+
+
+  }
+
+
+
+/*landscape*/
+
+
+
+@media screen 
+  and (device-width: 667px) 
+  and (device-height: 375px){
+
+
+  
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 20px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 150%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
+}
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+
+
+  }
+
+
+
+  /*end*/
+
+
+
+/*--media query iphone 6 / 7/ 8 plus   *--/
+
+/*potrait*/
+
+
+
+@media screen 
+  and (device-width: 414px) 
+  and (device-height: 736px) {
+
+
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:fit-content;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:fit-content;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+
+ 
+
+
+  }
+
+
+
+
+
+  /*landscape*/
+
+
+  @media screen 
+  and (device-width: 736px) 
+  and (device-height: 414px){
+
+
+  
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 20px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 150%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
+}
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+
+
+  }
+
+
+
+
+/*end*/
+
+
+
+
+/*--media query iphone x   *--/
+
+/*potrait*/
+
+
+@media screen 
+  and (device-width: 375px) 
+  and (device-height: 812px) {
+
+
+
+
+
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+        .baked-twist {
+  
+            display:flex;
+            flex-direction: column-reverse;
+        
+         }
+        
+
+         .intro-text-new{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 35px;
+            line-height: 50px;
+            margin-top: 60px;
+            Color:#022b69;  
+            padding-left:30px;
+            padding-right:10px;
+            
+        }
+        
+
+
+.sub-intro-new{
+
+    Color:#022b69;
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top:20px;
+    padding-right:10px;
+    padding-left: 30px;
+
+}
+
+
+
+.playcueball{
+
+    width: 140px;
+    margin-top:30px;
+    position: relative;
+    left: 30px;
+    
+    }
+
+
+.applogo{
+
+    margin-right: 10px;
+    margin-top:20px;
+    position: relative;
+    left:30px;
+    width: 95px;
+    margin-bottom: 60px;
+    
+    }
+
+
+    .facts{
+
+        font-family: 'Merriweather', serif !important;
+        Color:#022b69;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 29px;
+        line-height: 38px;
+        margin-top: 100px;
+        padding-left:15px;
+    
+    }
+
+
+    .sub-intro{
+
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 31px;
+        margin-top:20px;
+        padding-left:15px;
+    }
+
+
+    .corevalues ,.story-img{
+
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 200px;
+        
+        }
+    
+        .card{
+
+            width: 100%;
+            height:fit-content;
+            margin-top:50px;
+            margin-bottom: 35px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: transparent;
+            
+            }
+
+
+  .story{
+font-family: 'Lato', sans-serif !important;
+padding-left:15px;
+padding-right: 30px;
+font-size: 13.5px;
+
+}
+
+
+.btn-optimal{
+    width:150px;
+    height: 60px;
+    background-color:transparent;
+    color:#202020;
+    margin-top:20px;
+    border: transparent;
+    border-radius: 1px;
+    border: 2px solid #202020 !important;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    margin-bottom:110px;
+    margin-left:18px;
+
+}
+
+
+
+.newsletter{
+
+    margin-top:-25px;
+    margin-bottom: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
+
+.card-newsletter{
+
+    width: 100%;
+    height:auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+    
+    
+    }
+
+
+    .newsletter-intro{
+
+font-family: 'Merriweather', serif !important;
+    margin-bottom: 30px;
+    line-height:38px;
+    text-align:center;
+    padding-left:12px;
+    padding-right: 12px;
+    font-size:30px;
+   
+    
+    }
+    
+    .newsletter-outro{
+        font-family: 'Lato', sans-serif !important;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+
+    
+    }
+    
+
+
+
+.newsletter-btn{
+
+    width:150px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid #202020 !important;
+    color:black;
+    margin-top:50px;
+    margin-bottom:80px;
+    border: transparent;
+    border-radius: 1px;
+    outline: none !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 900;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}
+
+.testimonial-card{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(209, 122, 186, 0.342);
+    width: 85%;
+    height:fit-content;
+    margin-top:80px;
+    border: transparent;
+    border-radius: 5px;
+    
+    }
+    
+    
+    
+    
+    .testimonial-card-2{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #E8F5FE;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+    
+    
+    .testimonial-card-3{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:whitesmoke;
+        width: 85%;
+        height:40vh;
+        margin-top:-100px;
+        margin-bottom: 120px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+
+
+        .footer-topic{
+
+            font-family: 'Merriweather', serif !important;
+            font-size:16px;
+            font-weight:600;
+           text-align:left;
+           margin-top:100px;
+           color: #022b69;
+           margin-bottom:20px;
+           
+               }
+
+
+
+.li-2{
+
+    list-style: none;
+    text-align:left;
+    font-family: 'Lato', sans-serif !important;
+    color:#022b69;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+    font-style: normal;
+    margin-top:18px;
+    
+    }
+
+
+    .navbar-toggler{
+
+border: transparent !important;
+outline: none !important;
+
+
+    }
+
+    .navbar-toggler-icon{
+
+border-radius: 25px;
+background-color: #022b69;
+width: 40px;
+height: 40px;
+
+    }
+
+    .menu-small{
+
+width:42.5px;
+
+    }
+
+
+
+.nav-link{
+    font-family: 'Lato', sans-serif !important;
+    color: #022b69 !important;
+    font-weight: 600;
+    font-style: normal;
+    font-size:12px;
+    margin-top:12px;
+    margin-left:auto;
+    
+   
+}
+
+.navbar-nav{
+
+    margin-left:14px;
+    
+    }
+
+
+ 
+
+
+  }
+
+
+
+
+  /*landscape*/
+
+
+  @media screen 
+  and (device-width: 812px) 
+  and (device-height: 375px){
+
+
+  
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 20px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 100%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
+}
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+
+    .story-img{
+
+width: 250px;
+margin-top:70px;
+
+    }
+
+
+  }
+
+
+
+
+/*end*/
+
+
+
+
+  /* specifies body properties*/
+  body {
+
+    overflow-x:hidden !important;
+
+
+}
+
+
+
+/* baked browser scroller webkit re-design */
+
+
+/*for scrollerbar*/
+     /* width */
+     ::-webkit-scrollbar {
+        width: 3px;
+    }
+    
+    /* Track */
+    ::-webkit-scrollbar-track {
+        background:white; 
+    }
+     
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+        background:black; 
+    }
+    
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background:black; 
+    }
+
+/*end*/
