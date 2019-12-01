@@ -973,6 +973,44 @@ and (device-height: 640px)
 and (-webkit-device-pixel-ratio: 2){
 
 
+/*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+
+    /*media query for careers*/
+
+    .intro-text{
+        font-family: 'Merriweather', serif !important;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 55px;
+        margin-top: 50px;
+        Color:#022b69;
+        
+    }
+
+
+    /*end*/
+
+
     /*media query for about page*/
 
 
@@ -1479,6 +1517,58 @@ width:42.5px;
   and (orientation: landscape) {
 
 
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
+
 /*values for about page */
 
 .intro-text-2{
@@ -1790,7 +1880,41 @@ margin-top:-120px;
   and (-webkit-device-pixel-ratio: 3) 
   and (orientation: portrait) {
 
+    /*media query for contact page */
 
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+    /*media query for careers*/
+
+    .intro-text{
+        font-family: 'Merriweather', serif !important;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 55px;
+        margin-top: 50px;
+        Color:#022b69;
+        
+    }
+
+
+    /*end*/
 
     /*media query for about page*/
 
@@ -2300,6 +2424,57 @@ width:42.5px;
   and (-webkit-device-pixel-ratio: 3) 
   and (orientation: landscape) {
 
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
 
 /*values for about page */
 
@@ -2615,6 +2790,43 @@ margin-top:-120px;
   and (-webkit-device-pixel-ratio: 4) 
   and (orientation: portrait) {
 
+    
+
+/*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+    /*media query for careers*/
+
+    .intro-text{
+        font-family: 'Merriweather', serif !important;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 55px;
+        margin-top: 50px;
+        Color:#022b69;
+        
+    }
+
+
+    /*end*/
 
     /*media query for about page*/
 
@@ -3126,6 +3338,41 @@ width:42.5px;
   and (orientation:portrait) {
 
 
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+    /*media query for careers*/
+
+    .intro-text{
+        font-family: 'Merriweather', serif !important;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 55px;
+        margin-top: 50px;
+        Color:#022b69;
+        
+    }
+
+
+    /*end*/
     /*media query for about page*/
 
 
@@ -3634,6 +3881,58 @@ width:42.5px;
   and (orientation:landscape) {
 
 
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
 
 /*values for about page */
 
@@ -3955,6 +4254,42 @@ margin-top:-120px;
   and (device-width: 411px) 
   and (device-height: 731px) {
 
+/*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+
+    /*media query for careers*/
+
+    .intro-text{
+        font-family: 'Merriweather', serif !important;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 55px;
+        margin-top: 50px;
+        Color:#022b69;
+        
+    }
+
+
+    /*end*/
 
     /*media query for about page*/
 
@@ -4455,7 +4790,57 @@ width:42.5px;
 @media screen 
 and (device-width: 731px) 
 and (device-height: 411px) {
+/*media query for contact page */
 
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
 
 
 /*values for about page */
@@ -4777,6 +5162,42 @@ margin-top:-120px;
   and (device-width: 411px) 
   and (device-height: 823px) {
 
+
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 40px;
+            line-height: 55px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+    
+    
+        /*end*/
 
      /*media query for about page*/
 
@@ -5278,6 +5699,59 @@ width:42.5px;
 and (device-width: 823px) 
 and (device-height: 411px) {
 
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
+
 
 
 /*values for about page */
@@ -5600,6 +6074,41 @@ margin-top:-120px;
   and (device-height: 568px) {
 
 
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+    /*media query for careers*/
+
+    .intro-text{
+        font-family: 'Merriweather', serif !important;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 55px;
+        margin-top: 50px;
+        Color:#022b69;
+        
+    }
+
+
+    /*end*/
 
      /*media query for about page*/
 
@@ -6106,7 +6615,57 @@ margin-top: -8px;
   and (device-width: 568px) 
   and (device-height: 320px){
 
+    /*media query for contact page */
 
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
 
 
 /*values for about page */
@@ -6505,6 +7064,42 @@ margin-top: 60px;
   and (device-width: 375px) 
   and (device-height: 667px) {
 
+
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 40px;
+            line-height: 55px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+    
+    
+        /*end*/
 
 
      /*media query for about page*/
@@ -7008,7 +7603,57 @@ width:42.5px;
   and (device-width: 667px) 
   and (device-height: 375px){
 
+    /*media query for contact page */
 
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
 
 /*values for about page */
 
@@ -7327,6 +7972,42 @@ margin-top:-120px;
   and (device-width: 414px) 
   and (device-height: 736px) {
 
+/*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+
+    /*media query for careers*/
+
+    .intro-text{
+        font-family: 'Merriweather', serif !important;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 55px;
+        margin-top: 50px;
+        Color:#022b69;
+        
+    }
+
+
+    /*end*/
 
 
      /*media query for about page*/
@@ -7831,6 +8512,57 @@ width:42.5px;
   and (device-width: 736px) 
   and (device-height: 414px){
 
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
 
 
 /*values for about page */
@@ -8150,6 +8882,41 @@ margin-top:-120px;
   and (device-width: 375px) 
   and (device-height: 812px) {
 
+    /*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 40px;
+            line-height: 55px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+    
+    
+        /*end*/
 
      /*media query for about page*/
 
@@ -8653,6 +9420,58 @@ width:42.5px;
   and (device-height: 375px){
 
 
+/*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
+
 
 /*values for about page */
 
@@ -9014,6 +9833,22 @@ margin-top:70px;
 @media screen 
   and (device-width: 768px) 
   and (device-height: 1024px){
+
+    /*media query for careers*/
+
+    .intro-text{
+        font-family: 'Merriweather', serif !important;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 55px;
+        margin-top: 50px;
+        Color:#022b69;
+        
+    }
+
+
+    /*end*/
 
 
 /*values for about us page*/
