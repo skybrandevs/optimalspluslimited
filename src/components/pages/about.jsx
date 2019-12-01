@@ -123,7 +123,7 @@ and nurture the human spirit, one app, one person at a time.</p>
 
 <div className="row">
 
-<div className="col-sm-4">
+<div className="col-xl">
 
 <div className="card-about">
 
@@ -140,7 +140,7 @@ Our goal is to improve the lives of 5 million people through our products and se
 
 </div>
 
-<div className="col-sm-4">
+<div className="col-xl">
 
 <div className="card-about">
 
@@ -157,7 +157,7 @@ people face and provide solutions through our innovations.</p>
 </div>
 
 
-<div className="col-sm-4">
+<div className="col-xl">
 
 <div className="card-about">
 
@@ -189,7 +189,7 @@ people face and provide solutions through our innovations.</p>
 
 <div className="col-sm-12">
 
-<h4 className="topic-header-2">We Collaborate With More Than <br></br>20 Organizations Around The Globe.</h4>  
+<h4 className="topic-header-2">We collaborate with more than <br></br>20 organizations around the globe.</h4>  
 <p className="topic-title-33"> We have a diverse sense of brand experience with a well articulated <br></br>
 strategy & tactical ideas that delivers client expectations. </p>
 </div>
