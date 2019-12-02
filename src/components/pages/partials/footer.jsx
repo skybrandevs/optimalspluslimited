@@ -30,8 +30,10 @@ const Footer = () => (
 <div className="col">
 <h4 className="footer-topic">Product</h4>
 
-
+<a href="https://cueballapp.com" target="_blank;">
 <li className="li-2">The Cueball App</li>
+</a>
+
 <li className="li-2">My Cueball Wallet</li>
 
 
