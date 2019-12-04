@@ -66,9 +66,11 @@ consolidated solutions through meaningful innovations.</p>
     <div className="carousel-item active">
         <img src={slide1} className="d-block w-100" alt="..."/>
     </div>
+    {/*
     <div className="carousel-item">
       <img src={slide2} className="d-block w-100" alt="..."/>
     </div>
+    */}
     <div className="carousel-item">
       <img src={slide3} className="d-block w-100" alt="..."/>
     </div>

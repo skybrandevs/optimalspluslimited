@@ -29,7 +29,7 @@ const Careers = () => (
 
 <div className="col-sm-6">
 <h1 className="intro-text"> Careers at Optimals Plus.</h1>
-<p className="sub-intro"> Join us in helping African grow ; start your <br></br> path with an awesome career with us.</p>
+<p className="sub-intro"> Join us in helping Africa grow ; start your <br></br> path with an awesome career with us.</p>
 
 <button className="btn-optimal"> See all openings </button>
 
