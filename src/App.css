@@ -235,7 +235,7 @@ height:auto;
 .card{
 
 width: 100%;
-height:40vh;
+min-height:40vh;
 margin-top:150px;
 margin-bottom: 150px;
 display: block;
@@ -390,7 +390,7 @@ margin-top: 130px;
 .card-newsletter{
 
 width: 100%;
-height:70vh;
+height:auto;
 border-radius: 5px;
 background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
 
@@ -475,7 +475,7 @@ margin-left: auto;
 margin-right: auto;
 background-color:rgba(209, 122, 186, 0.342);
 width: 85%;
-height:40vh;
+min-height:40vh;
 margin-top:100px;
 margin-bottom: 150px;
 border: transparent;
@@ -493,7 +493,7 @@ border-radius: 5px;
     margin-right: auto;
     background-color: #E8F5FE;
     width: 85%;
-    height:40vh;
+    min-height:40vh;
     margin-top:100px;
     margin-bottom: 150px;
     border: transparent;
@@ -509,7 +509,7 @@ border-radius: 5px;
     margin-right: auto;
     background-color:whitesmoke;
     width: 85%;
-    height:40vh;
+    min-height:40vh;
     margin-top:100px;
     margin-bottom: 150px;
     border: transparent;
@@ -679,7 +679,7 @@ width: 100%;
 display: block;
 margin-left: auto;
 margin-right: auto;
-height:80vh;
+min-height:80vh;
 margin-top: 130px;
 margin-bottom:120px;
 border-radius: 10px;
