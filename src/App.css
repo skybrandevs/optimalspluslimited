@@ -13352,3 +13352,908 @@ width:42.5px;
 
 
  
+ /*general media query*/
+
+/*potrait*/
+
+ @media only screen and (min-width: 320px) and (max-width: 480px) {
+
+
+    /*media query for contact page */
+ 
+    .contact-header{
+        font-family: 'Merriweather', serif !important;
+        font-size: 35px;
+        line-height:54px;
+        font-weight: 300;
+        color: #022b69;
+        margin-top:80px;
+        text-align: left;
+       }
+    
+       .contact-intro{
+    
+        text-align: left;
+    
+       }
+    
+    /*end*/
+    
+            /*media query for careers*/
+    
+            .intro-text{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 400;
+                font-style: normal;
+                font-size: 40px;
+                line-height: 55px;
+                margin-top: 50px;
+                Color:#022b69;
+                
+            }
+        
+        
+            /*end*/
+    
+         /*media query for about page*/
+    
+    
+         .logo-client{
+    
+            width: 80px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 100px;
+            margin-bottom:30px;
+            
+            
+                }
+            
+                .logo-client-2{
+                  
+                    width: 140px;
+                    display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 100px;
+            margin-bottom:150px;
+            
+                }
+    
+    
+    
+    
+    
+    .para-title{
+    
+    font-size: 13px;
+    
+    }
+    
+    
+    
+        .design-size-2 ,.design-size{
+    
+            width: 100px;
+    
+        }
+    
+    .card-about{
+    
+    height: fit-content;
+    margin-bottom:50px;
+    margin-top: 30px;
+    
+    }
+    
+    
+        .topic-title{
+            font-family: 'Lato', sans-serif !important;
+            color:#022b69;
+            font-size: 14px;
+            font-weight: 400;
+            font-style: normal;
+            line-height: 25px;
+            
+    
+        }
+    
+    
+        .topic-header{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 700;
+            font-style: normal;
+            color: #022b69;
+            line-height: 49px;
+            font-size: 25px;
+            padding-top: 140px;
+            
+        }
+    
+    
+    
+        .intro-text-2{
+            font-family: 'Merriweather', serif !important;   
+            Color:#022b69;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 50px;
+            margin-top: 80px;
+            text-align:center;
+        }
+    
+    
+        .intro-text-3{
+            font-family: 'Merriweather', serif !important;   
+            Color:#022b69;
+            font-weight:500;
+            font-size: 30px;
+            font-style: normal;
+            line-height:37px;
+            text-align: left;
+            margin-top: 100px;
+        }
+        
+    
+        .team-title{
+    
+            Color:#022b69;
+            font-family: 'Lato', sans-serif !important;
+            font-size: 13.5px;
+            font-style: italic;
+            text-align: center;
+            margin-bottom: 100px;
+        }
+    
+    
+    
+    .profile{
+    
+    width: 90px;
+    margin-top:10px;
+    
+    }
+    
+        
+    
+    
+    .sub-text{
+    
+    font-size:12.5px;
+    line-height: 28px;
+    
+    }
+    
+    
+        /*end*/
+    
+    
+        body {
+    
+            overflow-x:hidden !important;
+        
+        
+        }
+        
+    
+    
+        .padding-nav{
+    
+            padding-left: 10px;
+            padding-right: 10px;
+            
+            }
+    
+            .logo{
+    
+                width: 80px;
+            
+            }
+    
+    
+            .baked-twist {
+      
+                display:flex;
+                flex-direction: column-reverse;
+            
+             }
+            
+    
+             .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 35px;
+                line-height: 50px;
+                margin-top: 60px;
+                Color:#022b69;  
+                padding-left:30px;
+                padding-right:10px;
+                
+            }
+            
+    
+    
+    .sub-intro-new{
+    
+        Color:#022b69;
+        font-family: 'Lato', sans-serif !important;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 27px;
+        margin-top:20px;
+        padding-right:10px;
+        padding-left: 30px;
+    
+    }
+    
+    
+    
+    .playcueball{
+    
+        width: 140px;
+        margin-top:30px;
+        position: relative;
+        left: 30px;
+        
+        }
+    
+    
+    .applogo{
+    
+        margin-right: 10px;
+        margin-top:20px;
+        position: relative;
+        left:30px;
+        width: 95px;
+        margin-bottom: 60px;
+        
+        }
+    
+    
+        .facts{
+    
+            font-family: 'Merriweather', serif !important;
+            Color:#022b69;
+            font-weight: 700;
+            font-style: normal;
+            font-size: 29px;
+            line-height: 38px;
+            margin-top: 100px;
+            padding-left:15px;
+        
+        }
+    
+    
+        .sub-intro{
+    
+            Color:#022b69;
+            font-family: 'Lato', sans-serif !important;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15.5px;
+            line-height: 31px;
+            margin-top:20px;
+            padding-left:15px;
+        }
+    
+    
+        .corevalues ,.story-img{
+    
+            display: block;
+            margin-left:auto;
+            margin-right: auto;
+            width: 200px;
+            
+            }
+        
+            .card{
+    
+                width: 100%;
+                height:40vh;
+                margin-top:50px;
+                margin-bottom: 35px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                border: transparent;
+                
+                }
+    
+    
+      .story{
+    font-family: 'Lato', sans-serif !important;
+    padding-left:15px;
+    padding-right: 30px;
+    font-size: 13.5px;
+    
+    }
+    
+    
+    .btn-optimal{
+        width:150px;
+        height: 60px;
+        background-color:transparent;
+        color:#202020;
+        margin-top:20px;
+        border: transparent;
+        border-radius: 1px;
+        border: 2px solid #202020 !important;
+        outline: none !important;
+        font-family: 'Lato', sans-serif !important;
+        font-weight: 900;
+        margin-bottom:110px;
+        margin-left:18px;
+    
+    }
+    
+    
+    
+    .newsletter{
+    
+        margin-top:-25px;
+        margin-bottom: -90px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 200px;
+    
+    }
+    
+    
+    .card-newsletter{
+    
+        width: 100%;
+        height:auto;
+        border-radius: 5px;
+        background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+        
+        
+        }
+    
+    
+        .newsletter-intro{
+    
+    font-family: 'Merriweather', serif !important;
+        margin-bottom: 30px;
+        line-height:38px;
+        text-align:center;
+        padding-left:12px;
+        padding-right: 12px;
+        font-size:30px;
+       
+        
+        }
+        
+        .newsletter-outro{
+            font-family: 'Lato', sans-serif !important;
+            text-align:center;
+            padding-left:12px;
+            padding-right: 12px;
+    
+        
+        }
+        
+    
+    
+    
+    .newsletter-btn{
+    
+        width:150px;
+        height: 60px;
+        background-color: transparent;
+        border: 2px solid #202020 !important;
+        color:black;
+        margin-top:50px;
+        margin-bottom:80px;
+        border: transparent;
+        border-radius: 1px;
+        outline: none !important;
+        font-family: 'Lato', sans-serif !important;
+        font-weight: 900;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+    
+    }
+    
+    .testimonial-card{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:rgba(209, 122, 186, 0.342);
+        width: 85%;
+        height:40vh;
+        margin-top:80px;
+        border: transparent;
+        border-radius: 5px;
+        
+        }
+        
+        
+        
+        
+        .testimonial-card-2{
+        
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #E8F5FE;
+            width: 85%;
+            height:40vh;
+            margin-top:-100px;
+            border: transparent;
+            border-radius: 5px;
+            
+            }
+        
+        
+        .testimonial-card-3{
+        
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            background-color:whitesmoke;
+            width: 85%;
+            height:40vh;
+            margin-top:-100px;
+            margin-bottom: 120px;
+            border: transparent;
+            border-radius: 5px;
+            
+            }
+    
+    
+            .footer-topic{
+    
+                font-family: 'Merriweather', serif !important;
+                font-size:16px;
+                font-weight:600;
+               text-align:left;
+               margin-top:100px;
+               color: #022b69;
+               margin-bottom:20px;
+               
+                   }
+    
+    
+    
+    .li-2{
+    
+        list-style: none;
+        text-align:left;
+        font-family: 'Lato', sans-serif !important;
+        color:#022b69;
+        font-weight:400;
+        font-size:14px;
+        line-height:23px;
+        font-style: normal;
+        margin-top:18px;
+        
+        }
+    
+    
+        .navbar-toggler{
+    
+    border: transparent !important;
+    outline: none !important;
+    
+    
+        }
+    
+        .navbar-toggler-icon{
+    
+    border-radius: 25px;
+    background-color: #022b69;
+    width: 40px;
+    height: 40px;
+    
+        }
+    
+        .menu-small{
+    
+    width:42.5px;
+    
+        }
+    
+    
+    
+    .nav-link{
+        font-family: 'Lato', sans-serif !important;
+        color: #022b69 !important;
+        font-weight: 600;
+        font-style: normal;
+        font-size:12px;
+        margin-top:12px;
+        margin-left:auto;
+        
+       
+    }
+    
+    .navbar-nav{
+    
+        margin-left:14px;
+        
+        }
+    
+    
+    
+    
+    
+
+ }
+
+ /*end*/
+
+
+
+ /*landscape*/
+ @media only screen and (min-width: 568px) and (max-width: 812px) and (orientation:landscape) {
+
+
+/*media query for contact page */
+
+.contact-header{
+    font-family: 'Merriweather', serif !important;
+    font-size: 35px;
+    line-height:54px;
+    font-weight: 300;
+    color: #022b69;
+    margin-top:80px;
+    text-align: left;
+   }
+
+   .contact-intro{
+
+    text-align: left;
+
+   }
+
+/*end*/
+
+        /*media query for careers*/
+
+        .intro-text{
+            font-family: 'Merriweather', serif !important;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 40px;
+            margin-top: 50px;
+            Color:#022b69;
+            
+        }
+
+
+        .face{
+
+            margin-top:50px !important;
+            
+            }
+
+
+     
+
+
+        .sub-intro{
+
+        font-size: 13px;
+        }
+    
+    
+        /*end*/
+
+
+/*values for about page */
+
+.intro-text-2{
+
+    margin-top: 30px;
+    
+    }
+    
+    
+        .card-about{
+    
+    height:fit-content;
+    
+        }
+    
+    
+        .design-size-2 ,.design-size{
+    
+            width: 100px;
+    
+        }
+    
+    
+    
+        /*end*/
+
+    body {
+
+        overflow-x:hidden !important;
+    
+    
+    }
+    
+  
+    .padding-nav{
+
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        }
+
+        .logo{
+
+            width: 80px;
+        
+        }
+
+
+
+        .navbar-toggler{
+
+            border: transparent !important;
+            outline: none !important;
+            
+            
+                }
+            
+                .navbar-toggler-icon{
+            
+            border-radius: 25px;
+            background-color: #022b69;
+            width: 40px;
+            height: 40px;
+            
+                }
+            
+                .menu-small{
+            
+            width:42.5px;
+            
+                }
+            
+            
+            
+            .nav-link{
+                font-family: 'Lato', sans-serif !important;
+                color: #022b69 !important;
+                font-weight: 600;
+                font-style: normal;
+                font-size:12px;
+                margin-top:12px;
+                margin-left:auto;
+                
+               
+            }
+            
+            .navbar-nav{
+            
+                margin-left:14px;
+            }            
+        
+
+
+
+            .intro-text-new{
+                font-family: 'Merriweather', serif !important;
+                font-weight: 500;
+                font-style: normal;
+                font-size: 30px;
+                line-height: 33px;
+                margin-top: 20px;
+                Color:#022b69;  
+                padding-left:20px;
+                padding-right:10px;
+                
+            }
+
+
+            .sub-intro-new{
+
+                Color:#022b69;
+                font-family: 'Lato', sans-serif !important;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 20px;
+                margin-top:20px;
+                padding-right:15px;
+                padding-left: 20px;
+            
+            }
+            
+
+            .playcueball{
+
+                width: 122px;
+                margin-top:1px;
+                position: relative;
+                left: 20px;
+                
+                }
+
+
+                .applogo{
+
+                    margin-right: 10px;
+                    margin-top:10px;
+                    position: relative;
+                    left:20px;
+                    width: 80px;
+                  
+                    
+                    }
+                    .facts{
+
+                        font-family: 'Merriweather', serif !important;
+                        Color:#022b69;
+                        font-weight: 700;
+                        font-style: normal;
+                        font-size: 25px;
+                        line-height: 30px;
+                        margin-top: 40px;
+                        padding-left:0px !important;
+                    
+                    }
+                
+                    .card{
+
+                        width: 100%;
+                        height:55vh;
+                        margin-top:50px;
+                        margin-bottom: 35px;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: transparent;
+                        
+                        }
+
+                        .top-2{
+                            display: none;
+                        }
+            
+                        .story{
+                            font-family: 'Lato', sans-serif !important;
+                            padding-left:1px;
+                            padding-right: 30px;
+                            font-size: 11.5px;
+                            
+                            }
+                            
+                            
+                            .btn-optimal{
+                                width:150px;
+                                height: 60px;
+                                background-color:transparent;
+                                color:#202020;
+                                margin-top:20px;
+                                border: transparent;
+                                border-radius: 1px;
+                                border: 2px solid #202020 !important;
+                                outline: none !important;
+                                font-family: 'Lato', sans-serif !important;
+                                font-weight: 900;
+                                margin-bottom:110px;
+                                margin-left:1px;
+                            
+                            }
+
+
+                            .card-newsletter{
+
+                                width: 100%;
+                                height:auto;
+                                border-radius: 5px;
+                                background-image: linear-gradient(to right,#5CC5E3,#75F0B4);
+                            }
+                                
+ 
+                                .newsletter-intro{
+
+                                    font-family: 'Merriweather', serif !important;
+                                        margin-bottom: 15px;
+                                        line-height:38px;
+                                        text-align:center;
+                                        padding-left:10px;
+                                        padding-right: 12px;
+                                        font-size:30px;
+                                        margin-top:53px;
+                                       
+                                        
+                                        }
+                                        
+                                        .newsletter-outro{
+                                            font-family: 'Lato', sans-serif !important;
+                                            text-align:left;
+                                            padding-left:39px;
+                                            padding-right: 12px;
+                                            font-size:13px;
+                                    
+                                        
+                                        }
+                                        
+                                    
+                                    
+                                    
+                                    .newsletter-btn{
+                                    
+                                        width:150px;
+                                        height: 60px;
+                                        background-color: transparent;
+                                        border: 2px solid #202020 !important;
+                                        color:black;
+                                        margin-top:50px;
+                                        margin-bottom:80px;
+                                        border: transparent;
+                                        border-radius: 1px;
+                                        outline: none !important;
+                                        font-family: 'Lato', sans-serif !important;
+                                        font-weight: 900;
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                      
+                                    }                               
+
+
+.testimonial-card ,.testimonial-card-2 ,.testimonial-card-3{
+   
+
+border: transparent;
+background-color: transparent;
+
+}
+
+
+.face{
+
+margin-top:-120px;
+
+}
+
+.testimonial-name{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:16px;
+    font-weight: 900;
+    text-align:left;
+    Color:#022b69;
+    margin-top: -18px;
+
+    }
+
+
+    .testimonial-text{
+
+        font-family: 'Lato', sans-serif !important;
+     
+        font-size:11px;
+        text-align:left;
+        font-weight:100;
+        font-style: normal;
+
+    }
+
+
+    .story-img{
+
+width: 250px;
+margin-top:70px;
+
+    }
+
+
+
+ }
+
+ /*end*/
