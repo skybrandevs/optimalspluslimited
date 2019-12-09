@@ -30,8 +30,9 @@ const Landing = () => (
 
 </div>
 
+<div className="off-switch">
 
-<div className="row baked-twist">
+<div className="row baked-twist ">
 
 <div className="col-sm-6">
 
@@ -61,10 +62,10 @@ consolidated solutions through meaningful innovations.</p>
 <div className="col-sm-6 ">
     
 
-<div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel">
+<div id="carouselExampleSlidesOnly" className="carousel slide " data-ride="carousel">
   <div className="carousel-inner">
     <div className="carousel-item active">
-        <img src={slide1} className="d-block w-100" alt="..."/>
+        <img src={slide1} className="d-block w-100 " alt="..."/>
     </div>
     {/*
     <div className="carousel-item">
@@ -91,7 +92,7 @@ consolidated solutions through meaningful innovations.</p>
 
 </div>
 
-
+</div>
 
 {/**first part ended */}
 
