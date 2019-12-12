@@ -34,8 +34,9 @@ const Footer = () => (
 <li className="li-2">The Cueball App</li>
 </a>
 
+<a href="https://cueball.bizaflix.com/" target="_blank;">
 <li className="li-2">My Cueball Wallet</li>
-
+</a>
 
 
     
