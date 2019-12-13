@@ -30,9 +30,9 @@ const Careers = () => (
 <div className="col-sm-6">
 <h1 className="intro-text"> Careers at Optimals Plus.</h1>
 <p className="sub-intro"> Join us in helping Africa grow ; start your <br></br> path with an awesome career with us.</p>
-
+<a href="#section2">
 <button className="btn-optimal"> See all openings </button>
-
+</a>
 </div>
 
 
@@ -106,7 +106,7 @@ const Careers = () => (
 
 <div className="col-sm-12">
 
-<h4 className="roles">Open roles</h4>
+<h4 className="roles" id="section2">Open roles</h4>
 <img src={face} className="img-fluid face"/>
 <p className="sorry-text">Sorry there are no openings at the moment , Kindly check back for future chances...</p>
 

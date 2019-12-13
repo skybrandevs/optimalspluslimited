@@ -14476,4 +14476,8 @@ margin-top:70px;
  /*end*/
 
 
+ html{
+
+    scroll-behavior: smooth;
+  }
 
