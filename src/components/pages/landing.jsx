@@ -46,11 +46,12 @@ consolidated solutions through meaningful innovations.</p>
 
 <div className="inline">
 
-<a href="https://www.optimalsplus.com/cueball" target="_blank;">
+<a href="https://play.google.com/store/apps/details?id=com.optimalsourceplus.cueball" target="_blank;">
 <img src={playLogo} className="img-fluid applogo zoom"/>
+</a>
 
 <img src={appsLogo} className="img-fluid applogo zoom "/>
-</a>
+
 
 
 
