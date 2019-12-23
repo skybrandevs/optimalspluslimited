@@ -49,8 +49,9 @@ consolidated solutions through meaningful innovations.</p>
 <a href="https://play.google.com/store/apps/details?id=com.optimalsourceplus.cueball" target="_blank;">
 <img src={playLogo} className="img-fluid applogo zoom"/>
 </a>
-
+<a href="https://apps.apple.com/ng/app/the-cue-ball/id1488715177" target="_blank;">
 <img src={appsLogo} className="img-fluid applogo zoom "/>
+</a>
 
 
 
