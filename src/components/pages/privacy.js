@@ -5,7 +5,7 @@ import guide from "../../images/guide.png";
 
 
 
-const Privacys = () => (
+const Privacy = () => (
 
 
     <div>
@@ -431,5 +431,5 @@ about a child under the age of 13, please contact us.</p>
 
     );
 
-    export default Privacys;
+    export default Privacy;
     
