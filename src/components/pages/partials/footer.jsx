@@ -80,7 +80,7 @@ Optimal Source Plus was founded by a team who share a passion to influence
 and <br></br>nurture the human spirit, one app, one person at a time.</p>
 
 
-<h5 className="copy">T&C Applies | ©2019 Optimal source plus All rights reserved.</h5>
+<h5 className="copy">T&C Applies | ©2020 Optimal source plus All rights reserved.</h5>
 
 </div>
 
